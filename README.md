@@ -27,3 +27,6 @@ https://drive.google.com/uc?id=1muwnik-uFGTKBdHmcQN5z68rD7qmdG-b
 - extract dataset
 - clean dataset
 
+#QUESTION 1
+How many employees spent above their given stipend? Extract the name of the
+employee, the assigned stipend, and the actual amount spent.
